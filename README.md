@@ -1,1 +1,1 @@
-# Computer_vision_notes
+I put this repository together to aggregate my notes from the Udemy coursse Modern Computer Vision™ PyTorch, Tensorflow2 Keras & OpenCV4.  None of this code is original, I just added it for myself to reference back to and to see some of the projects I've followed
